@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello NIka");
         System.out.println("Kide erti cvlileba");
         //asdasdas
+        //sdadsada
     }
 }
